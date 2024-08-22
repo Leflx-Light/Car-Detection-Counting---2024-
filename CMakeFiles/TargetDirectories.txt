@@ -1,0 +1,3 @@
+/home/kpit/Desktop/OpenCV/Phase3OpenCV/CarCounting/CMakeFiles/rebuild_cache.dir
+/home/kpit/Desktop/OpenCV/Phase3OpenCV/CarCounting/CMakeFiles/edit_cache.dir
+/home/kpit/Desktop/OpenCV/Phase3OpenCV/CarCounting/CMakeFiles/output.dir
